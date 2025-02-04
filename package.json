@@ -1,12 +1,12 @@
 {
-  "name": "LEWIS-MD",
+  "name": "LEWISROY",
   "version": "3.0.0",
   "description": "A WhatsApp Bot Created By LEWIS",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name LEWIS-MD",
-    "stop": "pm2 stop LEWIS-MD",
-    "restart": "pm2 restart LEWIS-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name AWAIS-MD",
+    "stop": "pm2 stop AWAIS-MD",
+    "restart": "pm2 restart AWAIS-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -47,4 +47,4 @@
     "wikipedia": "2.1.2",
     "yt-search": "2.11.1"
   }
-}
+  }
