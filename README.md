@@ -44,7 +44,7 @@
 
 1. Link your WhatsApp by [`PAIR CODE`](https://Lewisroy1-md-pair.onrender.com)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/LEWISROY1/LEWISROY1)
+3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/LEWISROY1/LEWISROY)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
