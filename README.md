@@ -9,8 +9,8 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Lewis-star-a11y">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=LEWIS-MD-+v3.0+MultiDevice;Developed+by+LewisMd;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
+  <a href="https://github.com/LEWISROY1">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=LEWIS-MD-+v3.0+MultiDevice;Developed+by+Lewis;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 1. Link your WhatsApp by [`PAIR CODE`](https://Lewisroy1-md-pair.onrender.com)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Lewis-star-a11y/LEWIS-MD-V3)
+3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/LEWISROY1/LEWISROY1)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
